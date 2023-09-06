@@ -5,6 +5,7 @@ class Solution {
         result[1] = findLastOccurrence(nums, nums.length, target);
         return result;
     }
+
     int findFirstOccurrence(int[] A, int n, int target){
         int low = 0, high = n - 1;
         while(low <= high){
@@ -19,6 +20,7 @@ class Solution {
         } 
         return -1;
     }
+    
     int findLastOccurrence(int[] A, int n, int target){
         int low = 0, high = n - 1;
         while(low <= high){
