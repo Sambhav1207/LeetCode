@@ -10,7 +10,6 @@ class Solution {
         if(k > list.size()){
             return -1;
         }
-        int result = list.get(k - 1);
-        return result;
+        return list.get(k - 1);
     }
 }
