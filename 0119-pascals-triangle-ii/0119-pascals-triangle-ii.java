@@ -1,6 +1,5 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        /*
         List<Integer> ans = new ArrayList<>();
         for(int i = 0; i <= rowIndex; i++){
             List<Integer> arr = new ArrayList<>();
@@ -17,8 +16,8 @@ class Solution {
             }
             ans = arr;
         }
-        return ans;
-        */
+        return ans;        
+        /*
         List<List<Integer>> list = new ArrayList<>();
         list.add(Arrays.asList(1));
         for(int i = 1; i <= rowIndex; i++){
@@ -32,5 +31,6 @@ class Solution {
             list.add(list1);
         }
         return list.get(rowIndex);
+        */
     }
 }
