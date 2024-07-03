@@ -52,3 +52,18 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sambhav1207/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Sorting
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+<!---LeetCode Topics End-->
