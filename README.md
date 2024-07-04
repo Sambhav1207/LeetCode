@@ -74,4 +74,8 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sambhav1207/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Sambhav1207/LeetCode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
