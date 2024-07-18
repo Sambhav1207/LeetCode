@@ -88,9 +88,15 @@ Here, I put solved LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sambhav1207/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sambhav1207/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sambhav1207/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
