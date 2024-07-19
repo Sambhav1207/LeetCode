@@ -57,6 +57,7 @@ Here, I put solved LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -99,4 +100,8 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sambhav1207/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
