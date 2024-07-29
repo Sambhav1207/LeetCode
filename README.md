@@ -57,6 +57,7 @@ Here, I put solved LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0932-monotonic-array](https://github.com/Sambhav1207/LeetCode/tree/master/0932-monotonic-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
