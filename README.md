@@ -114,4 +114,20 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
