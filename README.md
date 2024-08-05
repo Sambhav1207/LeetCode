@@ -57,6 +57,7 @@ Here, I put solved LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@ Here, I put solved LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
