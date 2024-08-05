@@ -59,6 +59,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ Here, I put solved LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -155,6 +157,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
