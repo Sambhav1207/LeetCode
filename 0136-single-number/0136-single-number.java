@@ -1,5 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        //Brute Force
         for(int i = 0; i < nums.length; i++){
             int num = nums[i], count = 0;
             for(int j = 0; j < nums.length; j++){
