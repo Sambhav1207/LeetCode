@@ -34,13 +34,15 @@ class Solution {
                 count--;
             }
         }
-        count = 0;
-        for(int i = 0; i < n; i++){
-            if(nums[i] == el){
-                count++;
-            }
-        }
-        if(count > (n / 2)) return el;
-        return -1;
+
+        //if "You may assume that the majority element always exists in the array" is not given
+        // count = 0;
+        // for(int i = 0; i < n; i++){
+        //     if(nums[i] == el){
+        //         count++;
+        //     }
+        // }
+        // if(count > (n / 2)) return el;
+        return el;
     }
 }
