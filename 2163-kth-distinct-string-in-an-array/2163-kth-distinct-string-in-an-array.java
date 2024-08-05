@@ -1,15 +1,16 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
         HashMap<String, Integer> map = new HashMap<>();
+        ArrayList<String> list = new ArrayList<>();
         for(int i = 0; i < arr.length; i++){
             map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
         }
         for(int i = 0; i < arr.length; i++){
             if(map.get(arr[i]) == 1){
-                k--;
-                if(k == 0) return arr[i];
+                list.add(arr[i]);
             }
         }
-        return "";
+        if(list.size() < k) return "";
+        return list.get(k - 1);
     }
 }
