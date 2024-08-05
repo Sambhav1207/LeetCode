@@ -22,7 +22,7 @@ class Solution {
         //     }
         // }
 
-        //Optimal
+        //Optimal: Moore's Voting Algorithm
         int n = nums.length, el = 0, count = 0;
         for(int i = 0; i < n; i++){
             if(count == 0){
