@@ -58,6 +58,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
@@ -161,6 +162,7 @@ Here, I put solved LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
