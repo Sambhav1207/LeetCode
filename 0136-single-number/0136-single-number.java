@@ -10,6 +10,6 @@ class Solution {
             }
             if(count == 1) return num;
         }
-        return -1;
+        return -1;        
     }
 }
