@@ -159,6 +159,7 @@ Here, I put solved LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sambhav1207/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
@@ -191,6 +192,7 @@ Here, I put solved LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sambhav1207/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
