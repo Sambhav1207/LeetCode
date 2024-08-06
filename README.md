@@ -59,6 +59,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sambhav1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
@@ -164,6 +165,7 @@ Here, I put solved LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sambhav1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -201,6 +203,7 @@ Here, I put solved LeetCode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
