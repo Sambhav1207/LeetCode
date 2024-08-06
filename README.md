@@ -84,6 +84,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Here, I put solved LeetCode problems.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/Sambhav1207/LeetCode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Here, I put solved LeetCode problems.
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Sambhav1207/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sambhav1207/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Here, I put solved LeetCode problems.
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Sambhav1207/LeetCode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -185,6 +189,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
