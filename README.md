@@ -59,6 +59,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Sambhav1207/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sambhav1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +187,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Sambhav1207/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
