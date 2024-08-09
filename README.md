@@ -60,6 +60,7 @@ Here, I put solved LeetCode problems.
 | [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sambhav1207/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
@@ -157,6 +158,7 @@ Here, I put solved LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String Matching
@@ -167,6 +169,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sambhav1207/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Sambhav1207/LeetCode/tree/master/0273-integer-to-english-words) |
