@@ -62,6 +62,7 @@ Here, I put solved LeetCode problems.
 | [0031-next-permutation](https://github.com/Sambhav1207/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sambhav1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ Here, I put solved LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -159,6 +161,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String Matching
