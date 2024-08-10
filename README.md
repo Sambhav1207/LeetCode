@@ -79,6 +79,7 @@ Here, I put solved LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/Sambhav1207/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0932-monotonic-array](https://github.com/Sambhav1207/LeetCode/tree/master/0932-monotonic-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/Sambhav1207/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -141,6 +142,7 @@ Here, I put solved LeetCode problems.
 | [0219-contains-duplicate-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -159,6 +161,7 @@ Here, I put solved LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sambhav1207/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Matrix
 |  |
@@ -166,6 +169,7 @@ Here, I put solved LeetCode problems.
 | [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String Matching
 |  |
@@ -236,4 +240,12 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
