@@ -21,12 +21,22 @@ class Solution {
 
         //Better
         Map<Integer, Integer> map = new HashMap<>();
+        // for(int i = 0; i < nums.length; i++){
+        //     map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        // }
+        // for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+        //     if(entry.getValue() > nums.length / 3){
+        //         list.add(entry.getKey());
+        //     }
+        //     if(list.size() == 2){
+        //         break;
+        //     }
+        // }
+        int min = (int) (nums.length / 3) + 1;
         for(int i = 0; i < nums.length; i++){
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-        }
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            if(entry.getValue() > nums.length / 3){
-                list.add(entry.getKey());
+            if(map.get(nums[i]) == min){
+                list.add(nums[i]);
             }
             if(list.size() == 2){
                 break;
