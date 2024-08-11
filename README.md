@@ -74,6 +74,7 @@ Here, I put solved LeetCode problems.
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sambhav1207/LeetCode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sambhav1207/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@ Here, I put solved LeetCode problems.
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -140,6 +142,7 @@ Here, I put solved LeetCode problems.
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -225,6 +228,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
