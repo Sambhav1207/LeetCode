@@ -97,6 +97,7 @@ Here, I put solved LeetCode problems.
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Sambhav1207/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sambhav1207/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Sambhav1207/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Here, I put solved LeetCode problems.
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Sambhav1207/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Sambhav1207/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Tree
 |  |
 | ------- |
