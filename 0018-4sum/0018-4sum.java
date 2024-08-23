@@ -34,7 +34,7 @@ class Solution {
                         temp.add(nums[j]);
                         temp.add(nums[k]);
                         temp.add((int) fourth);
-                        temp.sort(Integer::compareTo);
+                        Collections.sort(temp);
                         set.add(temp);
                     }
                     st.add((long) nums[k]);
