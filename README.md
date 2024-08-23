@@ -83,6 +83,7 @@ Here, I put solved LeetCode problems.
 | [0890-lemonade-change](https://github.com/Sambhav1207/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Sambhav1207/LeetCode/tree/master/0932-monotonic-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/Sambhav1207/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -183,6 +184,7 @@ Here, I put solved LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sambhav1207/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## String Matching
@@ -228,6 +230,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
