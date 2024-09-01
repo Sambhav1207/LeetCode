@@ -96,6 +96,7 @@ Here, I put solved LeetCode problems.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sambhav1207/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Sambhav1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -133,6 +134,7 @@ Here, I put solved LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Sambhav1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sambhav1207/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
@@ -194,6 +196,7 @@ Here, I put solved LeetCode problems.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sambhav1207/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Sambhav1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String Matching
 |  |
 | ------- |
