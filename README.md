@@ -98,6 +98,7 @@ Here, I put solved LeetCode problems.
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sambhav1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Sambhav1207/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -138,6 +139,7 @@ Here, I put solved LeetCode problems.
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sambhav1207/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sambhav1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Sambhav1207/LeetCode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sambhav1207/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
@@ -215,6 +217,7 @@ Here, I put solved LeetCode problems.
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Sambhav1207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Sambhav1207/LeetCode/tree/master/1013-fibonacci-number) |
+| [2155-find-missing-observations](https://github.com/Sambhav1207/LeetCode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
