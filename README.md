@@ -93,6 +93,7 @@ Here, I put solved LeetCode problems.
 | [1580-shuffle-the-array](https://github.com/Sambhav1207/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sambhav1207/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sambhav1207/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -151,6 +152,7 @@ Here, I put solved LeetCode problems.
 | [0038-count-and-say](https://github.com/Sambhav1207/LeetCode/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/Sambhav1207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sambhav1207/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -171,6 +173,7 @@ Here, I put solved LeetCode problems.
 | [0906-walking-robot-simulation](https://github.com/Sambhav1207/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sambhav1207/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Sambhav1207/LeetCode/tree/master/2502-sort-the-people) |
@@ -266,12 +269,14 @@ Here, I put solved LeetCode problems.
 | [0137-single-number-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Sambhav1207/LeetCode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sambhav1207/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
