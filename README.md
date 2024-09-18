@@ -72,6 +72,7 @@ Here, I put solved LeetCode problems.
 | [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ Here, I put solved LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Sambhav1207/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -122,6 +124,7 @@ Here, I put solved LeetCode problems.
 | [0018-4sum](https://github.com/Sambhav1207/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
@@ -153,6 +156,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Sambhav1207/LeetCode/tree/master/0038-count-and-say) |
+| [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Sambhav1207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
