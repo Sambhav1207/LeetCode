@@ -157,6 +157,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0038-count-and-say](https://github.com/Sambhav1207/LeetCode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sambhav1207/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sambhav1207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -226,6 +227,7 @@ Here, I put solved LeetCode problems.
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Math
 |  |
@@ -357,4 +359,12 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Sambhav1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
