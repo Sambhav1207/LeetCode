@@ -208,6 +208,7 @@ Here, I put solved LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Sambhav1207/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sambhav1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Sambhav1207/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sambhav1207/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -367,4 +368,8 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sambhav1207/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
