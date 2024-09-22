@@ -372,4 +372,5 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sambhav1207/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sambhav1207/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
