@@ -84,6 +84,7 @@ Here, I put solved LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/Sambhav1207/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/Sambhav1207/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Sambhav1207/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/Sambhav1207/LeetCode/tree/master/0932-monotonic-array) |
@@ -284,6 +285,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
+| [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -318,6 +320,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Breadth-First Search
 |  |
@@ -336,6 +339,7 @@ Here, I put solved LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sambhav1207/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -382,4 +386,12 @@ Here, I put solved LeetCode problems.
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sambhav1207/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Sambhav1207/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sambhav1207/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
