@@ -85,6 +85,7 @@ Here, I put solved LeetCode problems.
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Sambhav1207/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Sambhav1207/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Sambhav1207/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/Sambhav1207/LeetCode/tree/master/0932-monotonic-array) |
@@ -140,6 +141,7 @@ Here, I put solved LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Sambhav1207/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sambhav1207/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sambhav1207/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav1207/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -341,6 +343,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sambhav1207/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Sambhav1207/LeetCode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -394,4 +397,8 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Sambhav1207/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
