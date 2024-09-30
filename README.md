@@ -94,6 +94,7 @@ Here, I put solved LeetCode problems.
 | [1435-xor-queries-of-a-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sambhav1207/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/Sambhav1207/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -347,6 +348,7 @@ Here, I put solved LeetCode problems.
 | [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sambhav1207/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sambhav1207/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sambhav1207/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sambhav1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sambhav1207/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Graph
 |  |
 | ------- |
