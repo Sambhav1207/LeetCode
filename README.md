@@ -124,6 +124,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Sambhav1207/LeetCode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sambhav1207/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambhav1207/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -176,6 +177,7 @@ Here, I put solved LeetCode problems.
 | [0273-integer-to-english-words](https://github.com/Sambhav1207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sambhav1207/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -386,6 +388,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sambhav1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sambhav1207/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sambhav1207/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Graph
