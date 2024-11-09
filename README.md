@@ -328,6 +328,7 @@ Here, I put solved LeetCode problems.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sambhav1207/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sambhav1207/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3394-minimum-array-end](https://github.com/Sambhav1207/LeetCode/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
 | ------- |
