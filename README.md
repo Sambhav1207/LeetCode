@@ -102,6 +102,7 @@ Here, I put solved LeetCode problems.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sambhav1207/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sambhav1207/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sambhav1207/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/Sambhav1207/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sambhav1207/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -349,6 +350,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/Sambhav1207/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
