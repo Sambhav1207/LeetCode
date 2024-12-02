@@ -185,6 +185,7 @@ Here, I put solved LeetCode problems.
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sambhav1207/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sambhav1207/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -267,6 +268,7 @@ Here, I put solved LeetCode problems.
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sambhav1207/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sambhav1207/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Here, I put solved LeetCode problems.
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sambhav1207/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sambhav1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
