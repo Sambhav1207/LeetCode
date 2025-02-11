@@ -181,6 +181,7 @@ Here, I put solved LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sambhav1207/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sambhav1207/LeetCode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Sambhav1207/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -290,6 +291,7 @@ Here, I put solved LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sambhav1207/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sambhav1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sambhav1207/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sambhav1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -415,6 +417,7 @@ Here, I put solved LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sambhav1207/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sambhav1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sambhav1207/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
