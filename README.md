@@ -170,6 +170,7 @@ Here, I put solved LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Sambhav1207/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1803-average-waiting-time](https://github.com/Sambhav1207/LeetCode/tree/master/1803-average-waiting-time) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sambhav1207/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sambhav1207/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sambhav1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -190,6 +191,7 @@ Here, I put solved LeetCode problems.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sambhav1207/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sambhav1207/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sambhav1207/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sambhav1207/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -416,6 +418,7 @@ Here, I put solved LeetCode problems.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sambhav1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav1207/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sambhav1207/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sambhav1207/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sambhav1207/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Graph
 |  |
