@@ -67,6 +67,7 @@ Here, I put solved LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sambhav1207/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sambhav1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sambhav1207/LeetCode/tree/master/0136-single-number) |
@@ -141,6 +142,7 @@ Here, I put solved LeetCode problems.
 | [0015-3sum](https://github.com/Sambhav1207/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav1207/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -321,6 +323,7 @@ Here, I put solved LeetCode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sambhav1207/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sambhav1207/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sambhav1207/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
