@@ -181,6 +181,7 @@ Here, I put solved LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sambhav1207/LeetCode/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Sambhav1207/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sambhav1207/LeetCode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Sambhav1207/LeetCode/tree/master/0179-largest-number) |
@@ -206,6 +207,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav1207/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sambhav1207/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sambhav1207/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
@@ -279,6 +281,7 @@ Here, I put solved LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sambhav1207/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Sambhav1207/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sambhav1207/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
