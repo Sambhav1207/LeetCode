@@ -82,6 +82,7 @@ Here, I put solved LeetCode problems.
 | [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sambhav1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sambhav1207/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +150,7 @@ Here, I put solved LeetCode problems.
 | [0217-contains-duplicate](https://github.com/Sambhav1207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sambhav1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Sambhav1207/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sambhav1207/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -216,6 +218,7 @@ Here, I put solved LeetCode problems.
 | [0219-contains-duplicate-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sambhav1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/Sambhav1207/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/Sambhav1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Sambhav1207/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -326,6 +329,7 @@ Here, I put solved LeetCode problems.
 | [0088-merge-sorted-array](https://github.com/Sambhav1207/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sambhav1207/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sambhav1207/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sambhav1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sambhav1207/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sambhav1207/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sambhav1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -334,6 +338,7 @@ Here, I put solved LeetCode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sambhav1207/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sambhav1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0731-my-calendar-ii](https://github.com/Sambhav1207/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav1207/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sambhav1207/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
