@@ -1,10 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length, numsSum = 0;
-        int sum = (n * (n + 1)) / 2;
-        for(int i = 0; i < n; i++){
-            numsSum += nums[i];
+        int[] hash = new int[nums.length + 1];
+        for(int i = 0; i < nums.length; i++){
+            hash[nums[i]]++;
         }
-        return sum - numsSum;
+        for(int i = 0; i < hash.length; i++){
+            if(hash[i] == 0){
+                return i;
+            }
+        }
+        return -1;
     }
 }
